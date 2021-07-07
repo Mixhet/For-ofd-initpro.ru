@@ -49,11 +49,11 @@ function readingDatabase()
 
 		$common_data[] = array(
 			'id_procedure' => $id_procedure,
-            'procedure_number' => $procedure_number,
-            'oos_procedure_number' => $oos_procedure_number,
-            'link_procedure' => $link_procedure,
-            'email' => $email,
-            'attachment' => $attachment_array
+			'procedure_number' => $procedure_number,
+			'oos_procedure_number' => $oos_procedure_number,
+			'link_procedure' => $link_procedure,
+			'email' => $email,
+			'attachment' => $attachment_array
 		);
 	}
 	// print_r($common_data);
