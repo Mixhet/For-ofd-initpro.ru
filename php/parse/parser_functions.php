@@ -43,7 +43,7 @@ function readingDatabase()
 
 			$attachment_array[] = array(
 				'title' => $title,
-                'link_to_file' => $link
+				'link_to_file' => $link
 			);
 		}
 
